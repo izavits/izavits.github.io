@@ -1484,7 +1484,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		@include vendor('justify-content', 'center');
 		cursor: default;
 		height: 10vh;
-		min-height: 35em;
+		min-height: 30em;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
